@@ -1,0 +1,2022 @@
+[
+    {
+      "value": "MMM",
+      "label": "3M Company"
+    },
+    {
+      "value": "AOS",
+      "label": "A.O. Smith Corp"
+    },
+    {
+      "value": "ABT",
+      "label": "Abbott Laboratories"
+    },
+    {
+      "value": "ABBV",
+      "label": "AbbVie Inc."
+    },
+    {
+      "value": "ABMD",
+      "label": "ABIOMED Inc"
+    },
+    {
+      "value": "ACN",
+      "label": "Accenture plc"
+    },
+    {
+      "value": "ATVI",
+      "label": "Activision Blizzard"
+    },
+    {
+      "value": "ADBE",
+      "label": "Adobe Inc."
+    },
+    {
+      "value": "AAP",
+      "label": "Advance Auto Parts"
+    },
+    {
+      "value": "AMD",
+      "label": "Advanced Micro Devices Inc"
+    },
+    {
+      "value": "AES",
+      "label": "AES Corp"
+    },
+    {
+      "value": "AFL",
+      "label": "AFLAC Inc"
+    },
+    {
+      "value": "A",
+      "label": "Agilent Technologies Inc"
+    },
+    {
+      "value": "APD",
+      "label": "Air Products & Chemicals Inc"
+    },
+    {
+      "value": "AKAM",
+      "label": "Akamai Technologies Inc"
+    },
+    {
+      "value": "ALK",
+      "label": "Alaska Air Group Inc"
+    },
+    {
+      "value": "ALB",
+      "label": "Albemarle Corp"
+    },
+    {
+      "value": "ARE",
+      "label": "Alexandria Real Estate Equities"
+    },
+    {
+      "value": "ALXN",
+      "label": "Alexion Pharmaceuticals"
+    },
+    {
+      "value": "ALGN",
+      "label": "Align Technology"
+    },
+    {
+      "value": "ALLE",
+      "label": "Allegion"
+    },
+    {
+      "value": "LNT",
+      "label": "Alliant Energy Corp"
+    },
+    {
+      "value": "ALL",
+      "label": "Allstate Corp"
+    },
+    {
+      "value": "GOOGL",
+      "label": "Alphabet Inc. (Class A)"
+    },
+    {
+      "value": "GOOG",
+      "label": "Alphabet Inc. (Class C)"
+    },
+    {
+      "value": "MO",
+      "label": "Altria Group Inc"
+    },
+    {
+      "value": "AMZN",
+      "label": "Amazon.com Inc."
+    },
+    {
+      "value": "AMCR",
+      "label": "Amcor plc"
+    },
+    {
+      "value": "AEE",
+      "label": "Ameren Corp"
+    },
+    {
+      "value": "AAL",
+      "label": "American Airlines Group"
+    },
+    {
+      "value": "AEP",
+      "label": "American Electric Power"
+    },
+    {
+      "value": "AXP",
+      "label": "American Express Co"
+    },
+    {
+      "value": "AIG",
+      "label": "American International Group"
+    },
+    {
+      "value": "AMT",
+      "label": "American Tower Corp."
+    },
+    {
+      "value": "AWK",
+      "label": "American Water Works Company Inc"
+    },
+    {
+      "value": "AMP",
+      "label": "Ameriprise Financial"
+    },
+    {
+      "value": "ABC",
+      "label": "AmerisourceBergen Corp"
+    },
+    {
+      "value": "AME",
+      "label": "AMETEK Inc."
+    },
+    {
+      "value": "AMGN",
+      "label": "Amgen Inc."
+    },
+    {
+      "value": "APH",
+      "label": "Amphenol Corp"
+    },
+    {
+      "value": "ADI",
+      "label": "Analog Devices Inc."
+    },
+    {
+      "value": "ANSS",
+      "label": "ANSYS"
+    },
+    {
+      "value": "ANTM",
+      "label": "Anthem"
+    },
+    {
+      "value": "AON",
+      "label": "Aon plc"
+    },
+    {
+      "value": "APA",
+      "label": "Apache Corporation"
+    },
+    {
+      "value": "AIV",
+      "label": "Apartment Investment & Management"
+    },
+    {
+      "value": "AAPL",
+      "label": "Apple Inc."
+    },
+    {
+      "value": "AMAT",
+      "label": "Applied Materials Inc."
+    },
+    {
+      "value": "APTV",
+      "label": "Aptiv PLC"
+    },
+    {
+      "value": "ADM",
+      "label": "Archer-Daniels-Midland Co"
+    },
+    {
+      "value": "ANET",
+      "label": "Arista Networks"
+    },
+    {
+      "value": "AJG",
+      "label": "Arthur J. Gallagher & Co."
+    },
+    {
+      "value": "AIZ",
+      "label": "Assurant"
+    },
+    {
+      "value": "T",
+      "label": "AT&T Inc."
+    },
+    {
+      "value": "ATO",
+      "label": "Atmos Energy"
+    },
+    {
+      "value": "ADSK",
+      "label": "Autodesk Inc."
+    },
+    {
+      "value": "ADP",
+      "label": "Automatic Data Processing"
+    },
+    {
+      "value": "AZO",
+      "label": "AutoZone Inc"
+    },
+    {
+      "value": "AVB",
+      "label": "AvalonBay Communities"
+    },
+    {
+      "value": "AVY",
+      "label": "Avery Dennison Corp"
+    },
+    {
+      "value": "BKR",
+      "label": "Baker Hughes Co"
+    },
+    {
+      "value": "BLL",
+      "label": "Ball Corp"
+    },
+    {
+      "value": "BAC",
+      "label": "Bank of America Corp"
+    },
+    {
+      "value": "BAX",
+      "label": "Baxter International Inc."
+    },
+    {
+      "value": "BDX",
+      "label": "Becton Dickinson"
+    },
+    {
+      "value": "BRK.B",
+      "label": "Berkshire Hathaway"
+    },
+    {
+      "value": "BBY",
+      "label": "Best Buy Co. Inc."
+    },
+    {
+      "value": "BIO",
+      "label": "Bio-Rad Laboratories"
+    },
+    {
+      "value": "BIIB",
+      "label": "Biogen Inc."
+    },
+    {
+      "value": "BLK",
+      "label": "BlackRock"
+    },
+    {
+      "value": "BA",
+      "label": "Boeing Company"
+    },
+    {
+      "value": "BKNG",
+      "label": "Booking Holdings Inc"
+    },
+    {
+      "value": "BWA",
+      "label": "BorgWarner"
+    },
+    {
+      "value": "BXP",
+      "label": "Boston Properties"
+    },
+    {
+      "value": "BSX",
+      "label": "Boston Scientific"
+    },
+    {
+      "value": "BMY",
+      "label": "Bristol-Myers Squibb"
+    },
+    {
+      "value": "AVGO",
+      "label": "Broadcom Inc."
+    },
+    {
+      "value": "BR",
+      "label": "Broadridge Financial Solutions"
+    },
+    {
+      "value": "BF.B",
+      "label": "Brown-Forman Corp."
+    },
+    {
+      "value": "CHRW",
+      "label": "C. H. Robinson Worldwide"
+    },
+    {
+      "value": "COG",
+      "label": "Cabot Oil & Gas"
+    },
+    {
+      "value": "CDNS",
+      "label": "Cadence Design Systems"
+    },
+    {
+      "value": "CPB",
+      "label": "Campbell Soup"
+    },
+    {
+      "value": "COF",
+      "label": "Capital One Financial"
+    },
+    {
+      "value": "CAH",
+      "label": "Cardinal Health Inc."
+    },
+    {
+      "value": "KMX",
+      "label": "Carmax Inc"
+    },
+    {
+      "value": "CCL",
+      "label": "Carnival Corp."
+    },
+    {
+      "value": "CARR",
+      "label": "Carrier Global"
+    },
+    {
+      "value": "CAT",
+      "label": "Caterpillar Inc."
+    },
+    {
+      "value": "CBOE",
+      "label": "Cboe Global Markets"
+    },
+    {
+      "value": "CBRE",
+      "label": "CBRE Group"
+    },
+    {
+      "value": "CDW",
+      "label": "CDW"
+    },
+    {
+      "value": "CE",
+      "label": "Celanese"
+    },
+    {
+      "value": "CNC",
+      "label": "Centene Corporation"
+    },
+    {
+      "value": "CNP",
+      "label": "CenterPoint Energy"
+    },
+    {
+      "value": "CTL",
+      "label": "CenturyLink Inc"
+    },
+    {
+      "value": "CERN",
+      "label": "Cerner"
+    },
+    {
+      "value": "CF",
+      "label": "CF Industries Holdings Inc"
+    },
+    {
+      "value": "SCHW",
+      "label": "Charles Schwab Corporation"
+    },
+    {
+      "value": "CHTR",
+      "label": "Charter Communications"
+    },
+    {
+      "value": "CVX",
+      "label": "Chevron Corp."
+    },
+    {
+      "value": "CMG",
+      "label": "Chipotle Mexican Grill"
+    },
+    {
+      "value": "CB",
+      "label": "Chubb Limited"
+    },
+    {
+      "value": "CHD",
+      "label": "Church & Dwight"
+    },
+    {
+      "value": "CI",
+      "label": "CIGNA Corp."
+    },
+    {
+      "value": "CINF",
+      "label": "Cincinnati Financial"
+    },
+    {
+      "value": "CTAS",
+      "label": "Cintas Corporation"
+    },
+    {
+      "value": "CSCO",
+      "label": "Cisco Systems"
+    },
+    {
+      "value": "C",
+      "label": "Citigroup Inc."
+    },
+    {
+      "value": "CFG",
+      "label": "Citizens Financial Group"
+    },
+    {
+      "value": "CTXS",
+      "label": "Citrix Systems"
+    },
+    {
+      "value": "CME",
+      "label": "CME Group Inc."
+    },
+    {
+      "value": "CMS",
+      "label": "CMS Energy"
+    },
+    {
+      "value": "KO",
+      "label": "Coca-Cola Company"
+    },
+    {
+      "value": "CTSH",
+      "label": "Cognizant Technology Solutions"
+    },
+    {
+      "value": "CL",
+      "label": "Colgate-Palmolive"
+    },
+    {
+      "value": "CMCSA",
+      "label": "Comcast Corp."
+    },
+    {
+      "value": "CMA",
+      "label": "Comerica Inc."
+    },
+    {
+      "value": "CAG",
+      "label": "Conagra Brands"
+    },
+    {
+      "value": "CXO",
+      "label": "Concho Resources"
+    },
+    {
+      "value": "COP",
+      "label": "ConocoPhillips"
+    },
+    {
+      "value": "ED",
+      "label": "Consolidated Edison"
+    },
+    {
+      "value": "STZ",
+      "label": "Constellation Brands"
+    },
+    {
+      "value": "CPRT",
+      "label": "Copart Inc"
+    },
+    {
+      "value": "GLW",
+      "label": "Corning Inc."
+    },
+    {
+      "value": "CTVA",
+      "label": "Corteva"
+    },
+    {
+      "value": "COST",
+      "label": "Costco Wholesale Corp."
+    },
+    {
+      "value": "COTY",
+      "label": "Coty Inc"
+    },
+    {
+      "value": "CCI",
+      "label": "Crown Castle International Corp."
+    },
+    {
+      "value": "CSX",
+      "label": "CSX Corp."
+    },
+    {
+      "value": "CMI",
+      "label": "Cummins Inc."
+    },
+    {
+      "value": "CVS",
+      "label": "CVS Health"
+    },
+    {
+      "value": "DHI",
+      "label": "D. R. Horton"
+    },
+    {
+      "value": "DHR",
+      "label": "Danaher Corp."
+    },
+    {
+      "value": "DRI",
+      "label": "Darden Restaurants"
+    },
+    {
+      "value": "DVA",
+      "label": "DaVita Inc."
+    },
+    {
+      "value": "DE",
+      "label": "Deere & Co."
+    },
+    {
+      "value": "DAL",
+      "label": "Delta Air Lines Inc."
+    },
+    {
+      "value": "XRAY",
+      "label": "Dentsply Sirona"
+    },
+    {
+      "value": "DVN",
+      "label": "Devon Energy"
+    },
+    {
+      "value": "DXCM",
+      "label": "DexCom"
+    },
+    {
+      "value": "FANG",
+      "label": "Diamondback Energy"
+    },
+    {
+      "value": "DLR",
+      "label": "Digital Realty Trust Inc"
+    },
+    {
+      "value": "DFS",
+      "label": "Discover Financial Services"
+    },
+    {
+      "value": "DISCA",
+      "label": "Discovery Inc. (Class A)"
+    },
+    {
+      "value": "DISCK",
+      "label": "Discovery Inc. (Class C)"
+    },
+    {
+      "value": "DISH",
+      "label": "Dish Network"
+    },
+    {
+      "value": "DG",
+      "label": "Dollar General"
+    },
+    {
+      "value": "DLTR",
+      "label": "Dollar Tree"
+    },
+    {
+      "value": "D",
+      "label": "Dominion Energy"
+    },
+    {
+      "value": "DPZ",
+      "label": "Domino's Pizza"
+    },
+    {
+      "value": "DOV",
+      "label": "Dover Corporation"
+    },
+    {
+      "value": "DOW",
+      "label": "Dow Inc."
+    },
+    {
+      "value": "DTE",
+      "label": "DTE Energy Co."
+    },
+    {
+      "value": "DUK",
+      "label": "Duke Energy"
+    },
+    {
+      "value": "DRE",
+      "label": "Duke Realty Corp"
+    },
+    {
+      "value": "DD",
+      "label": "DuPont de Nemours Inc"
+    },
+    {
+      "value": "DXC",
+      "label": "DXC Technology"
+    },
+    {
+      "value": "ETFC",
+      "label": "E*Trade"
+    },
+    {
+      "value": "EMN",
+      "label": "Eastman Chemical"
+    },
+    {
+      "value": "ETN",
+      "label": "Eaton Corporation"
+    },
+    {
+      "value": "EBAY",
+      "label": "eBay Inc."
+    },
+    {
+      "value": "ECL",
+      "label": "Ecolab Inc."
+    },
+    {
+      "value": "EIX",
+      "label": "Edison Int'l"
+    },
+    {
+      "value": "EW",
+      "label": "Edwards Lifesciences"
+    },
+    {
+      "value": "EA",
+      "label": "Electronic Arts"
+    },
+    {
+      "value": "EMR",
+      "label": "Emerson Electric Company"
+    },
+    {
+      "value": "ETR",
+      "label": "Entergy Corp."
+    },
+    {
+      "value": "EOG",
+      "label": "EOG Resources"
+    },
+    {
+      "value": "EFX",
+      "label": "Equifax Inc."
+    },
+    {
+      "value": "EQIX",
+      "label": "Equinix"
+    },
+    {
+      "value": "EQR",
+      "label": "Equity Residential"
+    },
+    {
+      "value": "ESS",
+      "label": "Essex Property Trust Inc."
+    },
+    {
+      "value": "EL",
+      "label": "Estée Lauder Companies"
+    },
+    {
+      "value": "RE",
+      "label": "Everest Re Group Ltd."
+    },
+    {
+      "value": "EVRG",
+      "label": "Evergy"
+    },
+    {
+      "value": "ES",
+      "label": "Eversource Energy"
+    },
+    {
+      "value": "EXC",
+      "label": "Exelon Corp."
+    },
+    {
+      "value": "EXPE",
+      "label": "Expedia Group"
+    },
+    {
+      "value": "EXPD",
+      "label": "Expeditors"
+    },
+    {
+      "value": "EXR",
+      "label": "Extra Space Storage"
+    },
+    {
+      "value": "XOM",
+      "label": "Exxon Mobil Corp."
+    },
+    {
+      "value": "FFIV",
+      "label": "F5 Networks"
+    },
+    {
+      "value": "FB",
+      "label": "Facebook Inc."
+    },
+    {
+      "value": "FAST",
+      "label": "Fastenal Co"
+    },
+    {
+      "value": "FRT",
+      "label": "Federal Realty Investment Trust"
+    },
+    {
+      "value": "FDX",
+      "label": "FedEx Corporation"
+    },
+    {
+      "value": "FIS",
+      "label": "Fidelity National Information Services"
+    },
+    {
+      "value": "FITB",
+      "label": "Fifth Third Bancorp"
+    },
+    {
+      "value": "FRC",
+      "label": "First Republic Bank"
+    },
+    {
+      "value": "FE",
+      "label": "FirstEnergy Corp"
+    },
+    {
+      "value": "FISV",
+      "label": "Fiserv Inc"
+    },
+    {
+      "value": "FLT",
+      "label": "FleetCor Technologies Inc"
+    },
+    {
+      "value": "FLIR",
+      "label": "FLIR Systems"
+    },
+    {
+      "value": "FLS",
+      "label": "Flowserve Corporation"
+    },
+    {
+      "value": "FMC",
+      "label": "FMC Corporation"
+    },
+    {
+      "value": "F",
+      "label": "Ford Motor Company"
+    },
+    {
+      "value": "FTNT",
+      "label": "Fortinet"
+    },
+    {
+      "value": "FTV",
+      "label": "Fortive Corp"
+    },
+    {
+      "value": "FBHS",
+      "label": "Fortune Brands Home & Security"
+    },
+    {
+      "value": "FOXA",
+      "label": "Fox Corporation (Class A)"
+    },
+    {
+      "value": "FOX",
+      "label": "Fox Corporation (Class B)"
+    },
+    {
+      "value": "BEN",
+      "label": "Franklin Resources"
+    },
+    {
+      "value": "FCX",
+      "label": "Freeport-McMoRan Inc."
+    },
+    {
+      "value": "GPS",
+      "label": "Gap Inc."
+    },
+    {
+      "value": "GRMN",
+      "label": "Garmin Ltd."
+    },
+    {
+      "value": "IT",
+      "label": "Gartner Inc"
+    },
+    {
+      "value": "GD",
+      "label": "General Dynamics"
+    },
+    {
+      "value": "GE",
+      "label": "General Electric"
+    },
+    {
+      "value": "GIS",
+      "label": "General Mills"
+    },
+    {
+      "value": "GM",
+      "label": "General Motors"
+    },
+    {
+      "value": "GPC",
+      "label": "Genuine Parts"
+    },
+    {
+      "value": "GILD",
+      "label": "Gilead Sciences"
+    },
+    {
+      "value": "GPN",
+      "label": "Global Payments Inc."
+    },
+    {
+      "value": "GL",
+      "label": "Globe Life Inc."
+    },
+    {
+      "value": "GS",
+      "label": "Goldman Sachs Group"
+    },
+    {
+      "value": "GWW",
+      "label": "Grainger (W.W.) Inc."
+    },
+    {
+      "value": "HRB",
+      "label": "H&R Block"
+    },
+    {
+      "value": "HAL",
+      "label": "Halliburton Co."
+    },
+    {
+      "value": "HBI",
+      "label": "Hanesbrands Inc"
+    },
+    {
+      "value": "HIG",
+      "label": "Hartford Financial Svc.Gp."
+    },
+    {
+      "value": "HAS",
+      "label": "Hasbro Inc."
+    },
+    {
+      "value": "HCA",
+      "label": "HCA Healthcare"
+    },
+    {
+      "value": "PEAK",
+      "label": "Healthpeak Properties"
+    },
+    {
+      "value": "HSIC",
+      "label": "Henry Schein"
+    },
+    {
+      "value": "HES",
+      "label": "Hess Corporation"
+    },
+    {
+      "value": "HPE",
+      "label": "Hewlett Packard Enterprise"
+    },
+    {
+      "value": "HLT",
+      "label": "Hilton Worldwide Holdings Inc"
+    },
+    {
+      "value": "HFC",
+      "label": "HollyFrontier Corp"
+    },
+    {
+      "value": "HOLX",
+      "label": "Hologic"
+    },
+    {
+      "value": "HD",
+      "label": "Home Depot"
+    },
+    {
+      "value": "HON",
+      "label": "Honeywell Int'l Inc."
+    },
+    {
+      "value": "HRL",
+      "label": "Hormel Foods Corp."
+    },
+    {
+      "value": "HST",
+      "label": "Host Hotels & Resorts"
+    },
+    {
+      "value": "HWM",
+      "label": "Howmet Aerospace"
+    },
+    {
+      "value": "HPQ",
+      "label": "HP Inc."
+    },
+    {
+      "value": "HUM",
+      "label": "Humana Inc."
+    },
+    {
+      "value": "HBAN",
+      "label": "Huntington Bancshares"
+    },
+    {
+      "value": "HII",
+      "label": "Huntington Ingalls Industries"
+    },
+    {
+      "value": "IEX",
+      "label": "IDEX Corporation"
+    },
+    {
+      "value": "IDXX",
+      "label": "IDEXX Laboratories"
+    },
+    {
+      "value": "INFO",
+      "label": "IHS Markit Ltd."
+    },
+    {
+      "value": "ITW",
+      "label": "Illinois Tool Works"
+    },
+    {
+      "value": "ILMN",
+      "label": "Illumina Inc"
+    },
+    {
+      "value": "INCY",
+      "label": "Incyte"
+    },
+    {
+      "value": "IR",
+      "label": "Ingersoll Rand"
+    },
+    {
+      "value": "INTC",
+      "label": "Intel Corp."
+    },
+    {
+      "value": "ICE",
+      "label": "Intercontinental Exchange"
+    },
+    {
+      "value": "IBM",
+      "label": "International Business Machines"
+    },
+    {
+      "value": "IFF",
+      "label": "International Flavors & Fragrances"
+    },
+    {
+      "value": "IP",
+      "label": "International Paper"
+    },
+    {
+      "value": "IPG",
+      "label": "Interpublic Group"
+    },
+    {
+      "value": "INTU",
+      "label": "Intuit Inc."
+    },
+    {
+      "value": "ISRG",
+      "label": "Intuitive Surgical Inc."
+    },
+    {
+      "value": "IVZ",
+      "label": "Invesco Ltd."
+    },
+    {
+      "value": "IPGP",
+      "label": "IPG Photonics Corp."
+    },
+    {
+      "value": "IQV",
+      "label": "IQVIA Holdings Inc."
+    },
+    {
+      "value": "IRM",
+      "label": "Iron Mountain Incorporated"
+    },
+    {
+      "value": "JBHT",
+      "label": "J. B. Hunt Transport Services"
+    },
+    {
+      "value": "JKHY",
+      "label": "Jack Henry & Associates"
+    },
+    {
+      "value": "J",
+      "label": "Jacobs Engineering Group"
+    },
+    {
+      "value": "SJM",
+      "label": "JM Smucker"
+    },
+    {
+      "value": "JNJ",
+      "label": "Johnson & Johnson"
+    },
+    {
+      "value": "JCI",
+      "label": "Johnson Controls International"
+    },
+    {
+      "value": "JPM",
+      "label": "JPMorgan Chase & Co."
+    },
+    {
+      "value": "JNPR",
+      "label": "Juniper Networks"
+    },
+    {
+      "value": "KSU",
+      "label": "Kansas City Southern"
+    },
+    {
+      "value": "K",
+      "label": "Kellogg Co."
+    },
+    {
+      "value": "KEY",
+      "label": "KeyCorp"
+    },
+    {
+      "value": "KEYS",
+      "label": "Keysight Technologies"
+    },
+    {
+      "value": "KMB",
+      "label": "Kimberly-Clark"
+    },
+    {
+      "value": "KIM",
+      "label": "Kimco Realty"
+    },
+    {
+      "value": "KMI",
+      "label": "Kinder Morgan"
+    },
+    {
+      "value": "KLAC",
+      "label": "KLA Corporation"
+    },
+    {
+      "value": "KSS",
+      "label": "Kohl's Corp."
+    },
+    {
+      "value": "KHC",
+      "label": "Kraft Heinz Co"
+    },
+    {
+      "value": "KR",
+      "label": "Kroger Co."
+    },
+    {
+      "value": "LB",
+      "label": "L Brands Inc."
+    },
+    {
+      "value": "LHX",
+      "label": "L3Harris Technologies"
+    },
+    {
+      "value": "LH",
+      "label": "Laboratory Corp. of America Holding"
+    },
+    {
+      "value": "LRCX",
+      "label": "Lam Research"
+    },
+    {
+      "value": "LW",
+      "label": "Lamb Weston Holdings Inc"
+    },
+    {
+      "value": "LVS",
+      "label": "Las Vegas Sands"
+    },
+    {
+      "value": "LEG",
+      "label": "Leggett & Platt"
+    },
+    {
+      "value": "LDOS",
+      "label": "Leidos Holdings"
+    },
+    {
+      "value": "LEN",
+      "label": "Lennar Corp."
+    },
+    {
+      "value": "LLY",
+      "label": "Lilly (Eli) & Co."
+    },
+    {
+      "value": "LNC",
+      "label": "Lincoln National"
+    },
+    {
+      "value": "LIN",
+      "label": "Linde plc"
+    },
+    {
+      "value": "LYV",
+      "label": "Live Nation Entertainment"
+    },
+    {
+      "value": "LKQ",
+      "label": "LKQ Corporation"
+    },
+    {
+      "value": "LMT",
+      "label": "Lockheed Martin Corp."
+    },
+    {
+      "value": "L",
+      "label": "Loews Corp."
+    },
+    {
+      "value": "LOW",
+      "label": "Lowe's Cos."
+    },
+    {
+      "value": "LYB",
+      "label": "LyondellBasell"
+    },
+    {
+      "value": "MTB",
+      "label": "M&T Bank Corp."
+    },
+    {
+      "value": "MRO",
+      "label": "Marathon Oil Corp."
+    },
+    {
+      "value": "MPC",
+      "label": "Marathon Petroleum"
+    },
+    {
+      "value": "MKTX",
+      "label": "MarketAxess"
+    },
+    {
+      "value": "MAR",
+      "label": "Marriott Int'l."
+    },
+    {
+      "value": "MMC",
+      "label": "Marsh & McLennan"
+    },
+    {
+      "value": "MLM",
+      "label": "Martin Marietta Materials"
+    },
+    {
+      "value": "MAS",
+      "label": "Masco Corp."
+    },
+    {
+      "value": "MA",
+      "label": "Mastercard Inc."
+    },
+    {
+      "value": "MXIM",
+      "label": "Maxim Integrated Products Inc"
+    },
+    {
+      "value": "MKC",
+      "label": "McCormick & Co."
+    },
+    {
+      "value": "MCD",
+      "label": "McDonald's Corp."
+    },
+    {
+      "value": "MCK",
+      "label": "McKesson Corp."
+    },
+    {
+      "value": "MDT",
+      "label": "Medtronic plc"
+    },
+    {
+      "value": "MRK",
+      "label": "Merck & Co."
+    },
+    {
+      "value": "MET",
+      "label": "MetLife Inc."
+    },
+    {
+      "value": "MTD",
+      "label": "Mettler Toledo"
+    },
+    {
+      "value": "MGM",
+      "label": "MGM Resorts International"
+    },
+    {
+      "value": "MCHP",
+      "label": "Microchip Technology"
+    },
+    {
+      "value": "MU",
+      "label": "Micron Technology"
+    },
+    {
+      "value": "MSFT",
+      "label": "Microsoft Corp."
+    },
+    {
+      "value": "MAA",
+      "label": "Mid-America Apartments"
+    },
+    {
+      "value": "MHK",
+      "label": "Mohawk Industries"
+    },
+    {
+      "value": "TAP",
+      "label": "Molson Coors Beverage Company"
+    },
+    {
+      "value": "MDLZ",
+      "label": "Mondelez International"
+    },
+    {
+      "value": "MNST",
+      "label": "Monster Beverage"
+    },
+    {
+      "value": "MCO",
+      "label": "Moody's Corp"
+    },
+    {
+      "value": "MS",
+      "label": "Morgan Stanley"
+    },
+    {
+      "value": "MSI",
+      "label": "Motorola Solutions Inc."
+    },
+    {
+      "value": "MSCI",
+      "label": "MSCI Inc"
+    },
+    {
+      "value": "MYL",
+      "label": "Mylan N.V."
+    },
+    {
+      "value": "NDAQ",
+      "label": "Nasdaq Inc."
+    },
+    {
+      "value": "NOV",
+      "label": "National Oilwell Varco Inc."
+    },
+    {
+      "value": "NTAP",
+      "label": "NetApp"
+    },
+    {
+      "value": "NFLX",
+      "label": "Netflix Inc."
+    },
+    {
+      "value": "NWL",
+      "label": "Newell Brands"
+    },
+    {
+      "value": "NEM",
+      "label": "Newmont Corporation"
+    },
+    {
+      "value": "NWSA",
+      "label": "News Corp. Class A"
+    },
+    {
+      "value": "NWS",
+      "label": "News Corp. Class B"
+    },
+    {
+      "value": "NEE",
+      "label": "NextEra Energy"
+    },
+    {
+      "value": "NLSN",
+      "label": "Nielsen Holdings"
+    },
+    {
+      "value": "NKE",
+      "label": "Nike Inc."
+    },
+    {
+      "value": "NI",
+      "label": "NiSource Inc."
+    },
+    {
+      "value": "NBL",
+      "label": "Noble Energy"
+    },
+    {
+      "value": "NSC",
+      "label": "Norfolk Southern Corp."
+    },
+    {
+      "value": "NTRS",
+      "label": "Northern Trust Corp."
+    },
+    {
+      "value": "NOC",
+      "label": "Northrop Grumman"
+    },
+    {
+      "value": "NLOK",
+      "label": "NortonLifeLock"
+    },
+    {
+      "value": "NCLH",
+      "label": "Norwegian Cruise Line Holdings"
+    },
+    {
+      "value": "NRG",
+      "label": "NRG Energy"
+    },
+    {
+      "value": "NUE",
+      "label": "Nucor Corp."
+    },
+    {
+      "value": "NVDA",
+      "label": "Nvidia Corporation"
+    },
+    {
+      "value": "NVR",
+      "label": "NVR Inc."
+    },
+    {
+      "value": "ORLY",
+      "label": "O'Reilly Automotive"
+    },
+    {
+      "value": "OXY",
+      "label": "Occidental Petroleum"
+    },
+    {
+      "value": "ODFL",
+      "label": "Old Dominion Freight Line"
+    },
+    {
+      "value": "OMC",
+      "label": "Omnicom Group"
+    },
+    {
+      "value": "OKE",
+      "label": "ONEOK"
+    },
+    {
+      "value": "ORCL",
+      "label": "Oracle Corp."
+    },
+    {
+      "value": "OTIS",
+      "label": "Otis Worldwide"
+    },
+    {
+      "value": "PCAR",
+      "label": "PACCAR Inc."
+    },
+    {
+      "value": "PKG",
+      "label": "Packaging Corporation of America"
+    },
+    {
+      "value": "PH",
+      "label": "Parker-Hannifin"
+    },
+    {
+      "value": "PAYX",
+      "label": "Paychex Inc."
+    },
+    {
+      "value": "PAYC",
+      "label": "Paycom"
+    },
+    {
+      "value": "PYPL",
+      "label": "PayPal"
+    },
+    {
+      "value": "PNR",
+      "label": "Pentair plc"
+    },
+    {
+      "value": "PBCT",
+      "label": "People's United Financial"
+    },
+    {
+      "value": "PEP",
+      "label": "PepsiCo Inc."
+    },
+    {
+      "value": "PKI",
+      "label": "PerkinElmer"
+    },
+    {
+      "value": "PRGO",
+      "label": "Perrigo"
+    },
+    {
+      "value": "PFE",
+      "label": "Pfizer Inc."
+    },
+    {
+      "value": "PM",
+      "label": "Philip Morris International"
+    },
+    {
+      "value": "PSX",
+      "label": "Phillips 66"
+    },
+    {
+      "value": "PNW",
+      "label": "Pinnacle West Capital"
+    },
+    {
+      "value": "PXD",
+      "label": "Pioneer Natural Resources"
+    },
+    {
+      "value": "PNC",
+      "label": "PNC Financial Services"
+    },
+    {
+      "value": "PPG",
+      "label": "PPG Industries"
+    },
+    {
+      "value": "PPL",
+      "label": "PPL Corp."
+    },
+    {
+      "value": "PFG",
+      "label": "Principal Financial Group"
+    },
+    {
+      "value": "PG",
+      "label": "Procter & Gamble"
+    },
+    {
+      "value": "PGR",
+      "label": "Progressive Corp."
+    },
+    {
+      "value": "PLD",
+      "label": "Prologis"
+    },
+    {
+      "value": "PRU",
+      "label": "Prudential Financial"
+    },
+    {
+      "value": "PEG",
+      "label": "Public Service Enterprise Group (PSEG)"
+    },
+    {
+      "value": "PSA",
+      "label": "Public Storage"
+    },
+    {
+      "value": "PHM",
+      "label": "PulteGroup"
+    },
+    {
+      "value": "PVH",
+      "label": "PVH Corp."
+    },
+    {
+      "value": "QRVO",
+      "label": "Qorvo"
+    },
+    {
+      "value": "QCOM",
+      "label": "QUALCOMM Inc."
+    },
+    {
+      "value": "PWR",
+      "label": "Quanta Services Inc."
+    },
+    {
+      "value": "DGX",
+      "label": "Quest Diagnostics"
+    },
+    {
+      "value": "RL",
+      "label": "Ralph Lauren Corporation"
+    },
+    {
+      "value": "RJF",
+      "label": "Raymond James Financial Inc."
+    },
+    {
+      "value": "RTX",
+      "label": "Raytheon Technologies"
+    },
+    {
+      "value": "O",
+      "label": "Realty Income Corporation"
+    },
+    {
+      "value": "REG",
+      "label": "Regency Centers Corporation"
+    },
+    {
+      "value": "REGN",
+      "label": "Regeneron Pharmaceuticals"
+    },
+    {
+      "value": "RF",
+      "label": "Regions Financial Corp."
+    },
+    {
+      "value": "RSG",
+      "label": "Republic Services Inc"
+    },
+    {
+      "value": "RMD",
+      "label": "ResMed"
+    },
+    {
+      "value": "RHI",
+      "label": "Robert Half International"
+    },
+    {
+      "value": "ROK",
+      "label": "Rockwell Automation Inc."
+    },
+    {
+      "value": "ROL",
+      "label": "Rollins Inc."
+    },
+    {
+      "value": "ROP",
+      "label": "Roper Technologies"
+    },
+    {
+      "value": "ROST",
+      "label": "Ross Stores"
+    },
+    {
+      "value": "RCL",
+      "label": "Royal Caribbean Group"
+    },
+    {
+      "value": "SPGI",
+      "label": "S&P Global Inc."
+    },
+    {
+      "value": "CRM",
+      "label": "Salesforce.com"
+    },
+    {
+      "value": "SBAC",
+      "label": "SBA Communications"
+    },
+    {
+      "value": "SLB",
+      "label": "Schlumberger Ltd."
+    },
+    {
+      "value": "STX",
+      "label": "Seagate Technology"
+    },
+    {
+      "value": "SEE",
+      "label": "Sealed Air"
+    },
+    {
+      "value": "SRE",
+      "label": "Sempra Energy"
+    },
+    {
+      "value": "NOW",
+      "label": "ServiceNow"
+    },
+    {
+      "value": "SHW",
+      "label": "Sherwin-Williams"
+    },
+    {
+      "value": "SPG",
+      "label": "Simon Property Group Inc"
+    },
+    {
+      "value": "SWKS",
+      "label": "Skyworks Solutions"
+    },
+    {
+      "value": "SLG",
+      "label": "SL Green Realty"
+    },
+    {
+      "value": "SNA",
+      "label": "Snap-on"
+    },
+    {
+      "value": "SO",
+      "label": "Southern Company"
+    },
+    {
+      "value": "LUV",
+      "label": "Southwest Airlines"
+    },
+    {
+      "value": "SWK",
+      "label": "Stanley Black & Decker"
+    },
+    {
+      "value": "SBUX",
+      "label": "Starbucks Corp."
+    },
+    {
+      "value": "STT",
+      "label": "State Street Corp."
+    },
+    {
+      "value": "STE",
+      "label": "STERIS plc"
+    },
+    {
+      "value": "SYK",
+      "label": "Stryker Corp."
+    },
+    {
+      "value": "SIVB",
+      "label": "SVB Financial"
+    },
+    {
+      "value": "SYF",
+      "label": "Synchrony Financial"
+    },
+    {
+      "value": "SNPS",
+      "label": "Synopsys Inc."
+    },
+    {
+      "value": "SYY",
+      "label": "Sysco Corp."
+    },
+    {
+      "value": "TMUS",
+      "label": "T-Mobile US"
+    },
+    {
+      "value": "TROW",
+      "label": "T. Rowe Price Group"
+    },
+    {
+      "value": "TTWO",
+      "label": "Take-Two Interactive"
+    },
+    {
+      "value": "TPR",
+      "label": "Tapestry Inc."
+    },
+    {
+      "value": "TGT",
+      "label": "Target Corp."
+    },
+    {
+      "value": "TEL",
+      "label": "TE Connectivity Ltd."
+    },
+    {
+      "value": "FTI",
+      "label": "TechnipFMC"
+    },
+    {
+      "value": "TDY",
+      "label": "Teledyne Technologies"
+    },
+    {
+      "value": "TFX",
+      "label": "Teleflex"
+    },
+    {
+      "value": "TXN",
+      "label": "Texas Instruments"
+    },
+    {
+      "value": "TXT",
+      "label": "Textron Inc."
+    },
+    {
+      "value": "BK",
+      "label": "The Bank of New York Mellon"
+    },
+    {
+      "value": "CLX",
+      "label": "The Clorox Company"
+    },
+    {
+      "value": "COO",
+      "label": "The Cooper Companies"
+    },
+    {
+      "value": "HSY",
+      "label": "The Hershey Company"
+    },
+    {
+      "value": "MOS",
+      "label": "The Mosaic Company"
+    },
+    {
+      "value": "TRV",
+      "label": "The Travelers Companies Inc."
+    },
+    {
+      "value": "DIS",
+      "label": "The Walt Disney Company"
+    },
+    {
+      "value": "TMO",
+      "label": "Thermo Fisher Scientific"
+    },
+    {
+      "value": "TIF",
+      "label": "Tiffany & Co."
+    },
+    {
+      "value": "TJX",
+      "label": "TJX Companies Inc."
+    },
+    {
+      "value": "TSCO",
+      "label": "Tractor Supply Company"
+    },
+    {
+      "value": "TT",
+      "label": "Trane Technologies plc"
+    },
+    {
+      "value": "TDG",
+      "label": "TransDigm Group"
+    },
+    {
+      "value": "TFC",
+      "label": "Truist Financial"
+    },
+    {
+      "value": "TWTR",
+      "label": "Twitter Inc."
+    },
+    {
+      "value": "TYL",
+      "label": "Tyler Technologies"
+    },
+    {
+      "value": "TSN",
+      "label": "Tyson Foods"
+    },
+    {
+      "value": "USB",
+      "label": "U.S. Bancorp"
+    },
+    {
+      "value": "UDR",
+      "label": "UDR Inc."
+    },
+    {
+      "value": "ULTA",
+      "label": "Ulta Beauty"
+    },
+    {
+      "value": "UAA",
+      "label": "Under Armour (Class A)"
+    },
+    {
+      "value": "UA",
+      "label": "Under Armour (Class C)"
+    },
+    {
+      "value": "UNP",
+      "label": "Union Pacific Corp"
+    },
+    {
+      "value": "UAL",
+      "label": "United Airlines Holdings"
+    },
+    {
+      "value": "UNH",
+      "label": "United Health Group Inc."
+    },
+    {
+      "value": "UPS",
+      "label": "United Parcel Service"
+    },
+    {
+      "value": "URI",
+      "label": "United Rentals Inc."
+    },
+    {
+      "value": "UHS",
+      "label": "Universal Health Services"
+    },
+    {
+      "value": "UNM",
+      "label": "Unum Group"
+    },
+    {
+      "value": "VLO",
+      "label": "Valero Energy"
+    },
+    {
+      "value": "VAR",
+      "label": "Varian Medical Systems"
+    },
+    {
+      "value": "VTR",
+      "label": "Ventas Inc"
+    },
+    {
+      "value": "VRSN",
+      "label": "Verisign Inc."
+    },
+    {
+      "value": "VRSK",
+      "label": "Verisk Analytics"
+    },
+    {
+      "value": "VZ",
+      "label": "Verizon Communications"
+    },
+    {
+      "value": "VRTX",
+      "label": "Vertex Pharmaceuticals Inc"
+    },
+    {
+      "value": "VFC",
+      "label": "VF Corporation"
+    },
+    {
+      "value": "VIAC",
+      "label": "ViacomCBS"
+    },
+    {
+      "value": "V",
+      "label": "Visa Inc."
+    },
+    {
+      "value": "VNO",
+      "label": "Vornado Realty Trust"
+    },
+    {
+      "value": "VMC",
+      "label": "Vulcan Materials"
+    },
+    {
+      "value": "WRB",
+      "label": "W. R. Berkley Corporation"
+    },
+    {
+      "value": "WAB",
+      "label": "Wabtec Corporation"
+    },
+    {
+      "value": "WBA",
+      "label": "Walgreens Boots Alliance"
+    },
+    {
+      "value": "WMT",
+      "label": "Walmart"
+    },
+    {
+      "value": "WM",
+      "label": "Waste Management Inc."
+    },
+    {
+      "value": "WAT",
+      "label": "Waters Corporation"
+    },
+    {
+      "value": "WEC",
+      "label": "WEC Energy Group"
+    },
+    {
+      "value": "WFC",
+      "label": "Wells Fargo"
+    },
+    {
+      "value": "WELL",
+      "label": "Welltower Inc."
+    },
+    {
+      "value": "WST",
+      "label": "West Pharmaceutical Services"
+    },
+    {
+      "value": "WDC",
+      "label": "Western Digital"
+    },
+    {
+      "value": "WU",
+      "label": "Western Union Co"
+    },
+    {
+      "value": "WRK",
+      "label": "WestRock"
+    },
+    {
+      "value": "WY",
+      "label": "Weyerhaeuser"
+    },
+    {
+      "value": "WHR",
+      "label": "Whirlpool Corp."
+    },
+    {
+      "value": "WMB",
+      "label": "Williams Companies"
+    },
+    {
+      "value": "WLTW",
+      "label": "Willis Towers Watson"
+    },
+    {
+      "value": "WYNN",
+      "label": "Wynn Resorts Ltd"
+    },
+    {
+      "value": "XEL",
+      "label": "Xcel Energy Inc"
+    },
+    {
+      "value": "XRX",
+      "label": "Xerox"
+    },
+    {
+      "value": "XLNX",
+      "label": "Xilinx"
+    },
+    {
+      "value": "XYL",
+      "label": "Xylem Inc."
+    },
+    {
+      "value": "YUM",
+      "label": "Yum! Brands Inc"
+    },
+    {
+      "value": "ZBRA",
+      "label": "Zebra Technologies"
+    },
+    {
+      "value": "ZBH",
+      "label": "Zimmer Biomet Holdings"
+    },
+    {
+      "value": "ZION",
+      "label": "Zions Bancorp"
+    },
+    {
+      "value": "ZTS",
+      "label": "Zoetis"
+    }
+  ]
