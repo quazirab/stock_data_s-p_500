@@ -11,7 +11,7 @@ The app doesnot use any database. It collects data from yFinance (Yahoo Finance 
 ![snapshot1](snapshot/snap1.gif?raw=true "Snapshot 1")
 
 ### Pipeline
-![pipeline](snapshot/pipeline.png?raw=true "Heroku Pipeline")
+![pipeline](snapshot/pipeline1.png?raw=true "Heroku Pipeline")
 
 ### Installation
 1. Create virtualenv `venv` for python-3.7
