@@ -61,8 +61,8 @@ def load_callbacks(app):
             )
 
     @app.callback(Output('row3', 'children'),
-                  [Input('aggregate_data', 'data')])
-    def update_graph(data):
+                  [Input('aggregate_data', 'data'),Input('dropdown', 'value')])
+    def update_graph(data,value):
         if data:
             return html.Div(
                 [
@@ -84,7 +84,9 @@ def load_callbacks(app):
                                 style_table={
 
                                     'max-height': '200px'
-                                }
+                                },
+                                export_format='csv',
+                                export_headers='display',
                             )
                         ],
                         id="table_Container",
