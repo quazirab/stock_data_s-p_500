@@ -13,14 +13,13 @@ def load_callbacks(app):
                   [Input('dropdown', 'value')])
     def update_ticker(value):
         if value:
-            df = market_data(value).df
-            df['Date'] = df.index.date
-
+            ticker_data = market_data(value)
+    
             data = {}
-            data['columns'] = df.columns
-            data['records'] = df.to_dict('records')
-            data['graph_x'] = df['Date']
-            data['graph_y'] = df['Close']
+            data['columns'] = ticker_data.columns
+            data['records'] = ticker_data.dict_dashboard
+            data['graph_x'] = ticker_data.date
+            data['graph_y'] = ticker_data.close
             return data
 
     @app.callback(Output('row2', 'children'),

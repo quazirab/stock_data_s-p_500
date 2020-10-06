@@ -20,3 +20,24 @@ The app doesnot use any database. It collects data from yFinance (Yahoo Finance 
 1. run server ```gunicorn run_server:server```
 
 
+### REST API
+
+#### Histoy
+uri = /api/v1/history/
+
+Input parameter
+```
+ticker = Ticker name of listed S&P 500 (required)
+```
+
+Response:
+``` 
+<Date>
+    Close
+    High
+    Low
+    Open
+    Volume
+    Stock Splits
+    Dividends
+```

@@ -9,7 +9,11 @@ def load_layout(app,tickers):
         html.Div(  # header
             [
             html.Div(
-                html.H6('Stock Data of S&P 500'),
+                [
+                    html.H2('Stock Data of S&P 500'),
+                    html.A(html.H4('API Example'), href='/api/v1/history?ticker=MMM', target="_blank"),
+                ],
+
                 className='eight columns'
             ),
 
@@ -23,10 +27,11 @@ def load_layout(app,tickers):
                 html.Img(
                     src="https://github.githubassets.com/images/modules/logos_page/Octocat.png",
                     style={'height':'100%', 'width':'50%','float': 'right'},                    
-            ),
+                ),
             ],
             href = "https://github.com/quazirab/stock_data_s-p_500",
             className='two columns',
+            target="_blank",
             ),
             
             ],
