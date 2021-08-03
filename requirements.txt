@@ -31,4 +31,4 @@ six==1.15.0
 toml==0.10.1
 urllib3==1.25.10
 Werkzeug==1.0.1
-yfinance==0.1.54
+yfinance==0.1.63
